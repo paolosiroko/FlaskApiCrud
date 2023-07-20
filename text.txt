@@ -1,0 +1,4 @@
+to migrate run
+ python create_db.py
+
+
